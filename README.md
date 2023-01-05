@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋, Amish Jewani
+#### Learning MERN web development 
+![Learning MERN web development ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**amish-j/amish-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Amish, enjoying to learn JavaScript and Full Stack Web Development. I work at IvyComptech based in Hyderabad.
+Follow my Journey and learn with me. You can read my blogs if you want to know about the web and many more.
+Check out this link.. https://medium.com/@amish_j
 
-Here are some ideas to get you started:
+Skills: REACT / JS / HTML / CSS / Linux 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on IvyComptech 
+- 🌱 I’m currently learning MERN 
+- 💬 Ask me about JavaScript  
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/amish-j)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@amish_j)  
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amish-j)](https://github.com/anuraghazra/github-readme-stats)
