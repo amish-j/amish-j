@@ -1,12 +1,21 @@
 ### Hi there 👋, Amish Jewani
 #### Learning MERN web development 
-![Learning MERN web development ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm Amish, enjoying to learn JavaScript and Full Stack Web Development. I work at IvyComptech based in Hyderabad.
 Follow my Journey and learn with me. You can read my blogs if you want to know about the web and many more.
 Check out this link.. https://medium.com/@amish_j
 
-Skills: REACT / JS / HTML / CSS / Linux 
+## Skills: 
+"*"  JavaScript
+"*"  Python
+"*"  HTML & CSS
+"*"  React
+"*"  Linux
+
+
+
+REACT / JS / HTML / CSS / Linux 
+
 
 - 🔭 I’m currently working on IvyComptech 
 - 🌱 I’m currently learning MERN 
