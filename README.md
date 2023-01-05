@@ -6,18 +6,10 @@ Follow my Journey and learn with me. You can read my blogs if you want to know a
 Check out this link.. https://medium.com/@amish_j
 
 ## Skills: 
-"*"  JavaScript
-"*"  Python
-"*"  HTML & CSS
-"*"  React
-"*"  Linux
-
-
-
 REACT / JS / HTML / CSS / Linux 
 
 
-- 🔭 I’m currently working on IvyComptech 
+- 🔭 I’m currently working at IvyComptech 
 - 🌱 I’m currently learning MERN 
 - 💬 Ask me about JavaScript  
 
