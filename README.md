@@ -6,7 +6,7 @@ Follow my Journey and learn with me. You can read my blogs if you want to know a
 Check out this link.. https://medium.com/@amish_j
 
 ## Skills: 
-REACT / JS / HTML / CSS / Linux 
+REACT / JS / HTML / CSS / Linux / Express / MongoDB
 
 
 - 🔭 I’m currently working at IvyComptech 
